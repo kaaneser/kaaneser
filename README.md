@@ -5,7 +5,7 @@
 
 <div align="center">
 
-- 👨‍🦱 Kaan Eser | Software Developer at @scandiweb
+- 👨‍🦱 Kaan Eser | Software Developer at $~$<a href="https://github.com/scandiweb" target="blank"><img align="center" src="https://emoji.slack-edge.com/T029T6W1T/sw/b8353ca0e91c97a7.png" height=15.5 width=26 alt="scandiweb"></a>
 - 🎸 Independent musician
 - 🔭 Working on Magento and React frameworks
 
