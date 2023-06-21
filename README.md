@@ -1,4 +1,6 @@
 ## Hi, It's Kaan there! 👋
+![](https://github.com/kaaneser/kaaneser/blob/main/Kaan.gif)
+
 
 <!--
 **kaaneser/kaaneser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
